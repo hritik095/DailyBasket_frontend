@@ -1,5 +1,5 @@
 import React, { useContext, useEffect } from 'react'
-import { AppContext } from '../context/appContext'
+import { AppContext } from '../context/AppContext'
 import { useLocation } from 'react-router-dom'
 
 const Loading = () => {
